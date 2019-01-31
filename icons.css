@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icon-innovacion-pacifico';
-  src:  url('https://github.com/gugadev/ps-fonts/blob/master/icon-innovacion-pacifico.eot?2sn7ay');
-  src:  url('https://github.com/gugadev/ps-fonts/blob/master/icon-innovacion-pacifico.eot?2sn7ay#iefix') format('embedded-opentype'),
-    url('https://github.com/gugadev/ps-fonts/blob/master/icon-innovacion-pacifico.ttf?2sn7ay') format('truetype'),
-    url('https://github.com/gugadev/ps-fonts/blob/master/icon-innovacion-pacifico.woff?2sn7ay') format('woff'),
-    url('https://github.com/gugadev/ps-fonts/blob/master/icon-innovacion-pacifico.svg?2sn7ay#icon-innovacion-pacifico') format('svg');
+  src:  url('https://cdn.staticaly.com/gh/gugadev/ps-fonts/16915575/icon-innovacion-pacifico.eot?2sn7ay');
+  src:  url('https://cdn.staticaly.com/gh/gugadev/ps-fonts/16915575/icon-innovacion-pacifico.eot?2sn7ay#iefix') format('embedded-opentype'),
+    url('https://cdn.staticaly.com/gh/gugadev/ps-fonts/16915575/icon-innovacion-pacifico.ttf?2sn7ay') format('truetype'),
+    url('https://cdn.staticaly.com/gh/gugadev/ps-fonts/16915575/icon-innovacion-pacifico.woff?2sn7ay') format('woff'),
+    url('https://cdn.staticaly.com/gh/gugadev/ps-fonts/16915575/icon-innovacion-pacifico.svg?2sn7ay#icon-innovacion-pacifico') format('svg');
   font-weight: normal;
   font-style: normal;
 }
