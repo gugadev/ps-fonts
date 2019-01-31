@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icon-innovacion-pacifico';
-  src:  url('/fonts/icon-innovacion-pacifico.eot?2sn7ay');
-  src:  url('/fonts/icon-innovacion-pacifico.eot?2sn7ay#iefix') format('embedded-opentype'),
-    url('/fonts/icon-innovacion-pacifico.ttf?2sn7ay') format('truetype'),
-    url('/fonts/icon-innovacion-pacifico.woff?2sn7ay') format('woff'),
-    url('/fonts/icon-innovacion-pacifico.svg?2sn7ay#icon-innovacion-pacifico') format('svg');
+  src:  url('https://github.com/gugadev/ps-fonts/blob/master/icon-innovacion-pacifico.eot?2sn7ay');
+  src:  url('https://github.com/gugadev/ps-fonts/blob/master/icon-innovacion-pacifico.eot?2sn7ay#iefix') format('embedded-opentype'),
+    url('https://github.com/gugadev/ps-fonts/blob/master/icon-innovacion-pacifico.ttf?2sn7ay') format('truetype'),
+    url('https://github.com/gugadev/ps-fonts/blob/master/icon-innovacion-pacifico.woff?2sn7ay') format('woff'),
+    url('https://github.com/gugadev/ps-fonts/blob/master/icon-innovacion-pacifico.svg?2sn7ay#icon-innovacion-pacifico') format('svg');
   font-weight: normal;
   font-style: normal;
 }
